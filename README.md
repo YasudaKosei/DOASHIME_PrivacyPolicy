@@ -14,15 +14,15 @@ KOSEI YASUDA(steam版だとMFC studio)( 以下「当団体」といいます)は
 # 改定 
 当団体は、必要に応じて本プライバシーポリシーを改定することがあります。変更がある場合はX(旧Twitter)アカウント【@MFC_studio_jp】にてお知らせします。改定された最新のプライバシーポリシーは、当ゲーム内もしくはこのページで確認することができます。 
 # お問い合わせ
-当団体による個人情報の取り扱いに関するお問い合わせは以下にお願いします。
-KOSEI YASUDA(steam版だとMFC studio)
-gachacollesup@gmail.com
-制定日・改定日 
-制定：2023年11月5日
+当団体による個人情報の取り扱いに関するお問い合わせは以下にお願いします。  
+KOSEI YASUDA(steam版だとMFC studio)  
+gachacollesup@gmail.com  
+制定日・改定日   
+制定：2023年11月5日  
 
-Privacy Policy for DOASHIME (hereinafter this is called "the App"(the game))
-The App is committed to respecting your privacy and protecting your personal information in accordance with the following policies.
-Compliance with Laws
-KOSEI YASUDA (hereinafter this is called "the Organization") will comply with the laws and regulations related to the protection of personal information and other related laws.
-Information Collection and Purpose
-For usage analysis: Google Firebase Analytics is used. 
+Privacy Policy for DOASHIME (hereinafter this is called "the App"(the game))  
+The App is committed to respecting your privacy and protecting your personal information in accordance with the following policies.  
+Compliance with Laws  
+KOSEI YASUDA (hereinafter this is called "the Organization") will comply with the laws and regulations related to the protection of personal information and other related laws.  
+Information Collection and Purpose  
+For usage analysis: Google Firebase Analytics is used.   
