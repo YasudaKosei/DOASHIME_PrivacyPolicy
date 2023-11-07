@@ -12,7 +12,7 @@ KOSEI YASUDA(steam版だとMFC studio)( 以下「当団体」といいます)は
 # 情報の取得の中止 
 ユーザー情報の取得は、当アプリ(当ゲーム)のアンインストールにより中止することができます。 
 # 改定 
-当団体は、必要に応じて本プライバシーポリシーを改定することがあります。変更がある場合はX(旧Twitter)アカウント【@MFC_studio_jp】にてお知らせします。改定された最新のプライバシーポリシーは、当ゲーム内もしくはこのページで確認することができます。 
+当団体は、必要に応じて本プライバシーポリシーを改定することがあります。変更がある場合はゲーム内でお知らせします。改定された最新のプライバシーポリシーは、当ゲーム内もしくはこのページで確認することができます。 
 # お問い合わせ
 当団体による個人情報の取り扱いに関するお問い合わせは以下にお願いします。  
 KOSEI YASUDA(steam版だとMFC studio)  
@@ -25,4 +25,19 @@ The App is committed to respecting your privacy and protecting your personal inf
 Compliance with Laws  
 KOSEI YASUDA (hereinafter this is called "the Organization") will comply with the laws and regulations related to the protection of personal information and other related laws.  
 Information Collection and Purpose  
-For usage analysis: Google Firebase Analytics is used.   
+For usage analysis: Google Firebase Analytics is used.  
+For high score functionality: Playfab is used.  
+Third-Party Information Sharing  
+The Organization does not collect personal information. However, by using Google Firebase Analytics, some user information, such as IP addresses, may be collected by Google, Inc. Additionally,  
+ by using Playfab, some user information, such as IP addresses, may be collected by Microsoft Corporation. For details, please refer to Google's and Microsoft’s privacy policy.  
+Discontinuation of Information Collection  
+The collection of user information can be stopped by uninstalling the App(the game).  
+Revisions  
+The Organization may revise this privacy policy as necessary. In the event of a change, notification will be given within the confines of the game environment. The most recent version of the revised privacy policy can be reviewed within the App(the game) or on this page.  
+Inquiries  
+For inquiries regarding the handling of personal information by the Organization, please contact:  
+KOSEI YASUDA  
+gachacollesup@gmail.com  
+Establishment and Revision Dates  
+Established: November 5, 2023  
+
